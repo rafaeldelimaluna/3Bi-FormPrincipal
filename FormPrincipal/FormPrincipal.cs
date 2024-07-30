@@ -28,12 +28,12 @@ namespace FormPrincipal
 
         private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            new Clientes();
         }
 
         private void categoriasToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            new Categorias();
         }
     }
 }
